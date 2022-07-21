@@ -11,12 +11,19 @@
  <h3 align="center"> Game: </h3>
  
  <p align="center">
- 
-![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot2.png)
-![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot3.png)
-![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot4.png)
-![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot5.png)
-![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot6.png)
+![icona](https://user-images.githubusercontent.com/90765306/180239089-a08be928-3fa4-4be7-81ca-d5240248b202.png)
+
+![MotherYeastScreenshot2](https://user-images.githubusercontent.com/90765306/180239109-66999d85-c9c9-41bb-be9a-9885b16d8b5c.png)
+
+![MotherYeastScreenshot3](https://user-images.githubusercontent.com/90765306/180239142-70d279a3-f919-4cba-ad5e-e70146e5f705.png)
+
+![MotherYeastScreenshot4](https://user-images.githubusercontent.com/90765306/180239156-b70aefe7-6eb1-43cb-b24b-e20d8d18d408.png)
+
+![MotherYeastScreenshot5](https://user-images.githubusercontent.com/90765306/180239180-e5182d3b-120e-4a65-8638-28cf91a28b5c.png)
+
+![MotherYeastScreenshot6](https://user-images.githubusercontent.com/90765306/180239194-94296b8a-bee1-4067-b062-8738287b7503.png)
+
+</p>
 
 ## Project 2: Catsushi Bar
 * Genre : Match 3 , Mobile Game
@@ -28,18 +35,19 @@
  <h3 align="center"> Game: </h3>
  
  <p align="center">
- 
-![Daimyo_Honda_port](https://user-images.githubusercontent.com/90765306/180237421-f6a06523-2e92-4267-a37f-088a844362cf.png)
 
+![Immagine 2022-02-15 094336](https://user-images.githubusercontent.com/90765306/180239292-a63bf974-6e34-4fa2-8a89-c2698eb8d906.png)
  
-![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094407.png)
- 
-![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094612.png)
+![Immagine 2022-02-15 094407](https://user-images.githubusercontent.com/90765306/180239333-29adf374-694c-48f3-bafe-444ceda8ac3d.png)
 
-![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094911.png)
- 
-![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094923.png)
- 
+![Immagine 2022-02-15 094540](https://user-images.githubusercontent.com/90765306/180239351-306d6a5f-1513-4805-ac3b-b2c57867d971.png)
+
+![Immagine 2022-02-15 094612](https://user-images.githubusercontent.com/90765306/180239371-f712bcde-d9e3-479d-8573-5ebfe20bc1e7.png)
+
+![Immagine 2022-02-15 094911](https://user-images.githubusercontent.com/90765306/180239384-285681b2-a7b3-4c94-bb8f-2e9542bf8578.png)
+
+![Immagine 2022-02-15 094923](https://user-images.githubusercontent.com/90765306/180239424-cb91ce67-b6b5-4ec5-b7b6-5712d12ee6da.png)
+
 </p>
 
 ## Project 3: Hexogun
