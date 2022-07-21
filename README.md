@@ -1,6 +1,9 @@
-# Davide_Nanni_Portofolio
-[Click here](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
+# Davide_Nanni_Portfolio
+
 ## Project : Hexogun 2022
+
+[Click here](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
+
 - **Genre** : RTS
 
 - **Role** : Game Programmer 
@@ -49,6 +52,7 @@
 
 ## Project : Catsushi Bar 2022
 
+[Click here](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
 - **Genre** : Match 3 , Mobile Game
 
 - **Role** : Game Programmer 
@@ -84,6 +88,9 @@
 </p>
 
 ## Project : Mother Yeast 2021
+
+[Click here](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
+
 - **Where** : Digital Bros Game Academy
 
 - **Genre** : Simulator , First Person
