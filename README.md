@@ -13,11 +13,11 @@
  <p align="center">
  
 ![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot1.png)
- 
-<img src="Screenshots/MotherYeastScreenshot1.png" width="300"> <img src="Screenshots/MotherYeastScreenshot2.png" width="300">
-<img src="Screenshots/MotherYeastScreenshot3.png" width="300"> <img src="Screenshots/MotherYeastScreenshot4.png" width="300">
-<img src="Screenshots/MotherYeastScreenshot5.png" width="300"> <img src="Screenshots/MotherYeastScreenshot6.png" width="300">
-
+![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot2.png)
+![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot3.png)
+![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot4.png)
+![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot5.png)
+![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot6.png)
 
 ## Project 2: Catsushi Bar
 * Genre : Match 3 , Mobile Game
