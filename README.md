@@ -55,7 +55,7 @@
 ## Project 3: Hexogun
 * Genre : RTS
 * Role : Game Programmer 
-* Mansion : 
+- Mansion : 
  - worked in a creation logic of pathfinding
  - an enemy AI and in a RTS combat system.
  
