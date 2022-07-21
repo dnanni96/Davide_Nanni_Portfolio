@@ -6,6 +6,16 @@
 * Role : Game Programmer
 * Description : Mother Yeast is a pizzaiolo simulator in space in which the player will be Ciro, a pizzaiolo that opened the first pizzeria on the moon. Manage the orders of any kind of clients by feeding Mother Yeast with the ingredients and deliver pizzas for every type of palate.
 
+<h2 align="center"> Game view: </h2>
+ 
+ <h3 align="center"> Game: </h3>
+ 
+ <p align="center">
+ 
+<img src="Screenshots/MotherYeastScreenshot1.png" width="300"> <img src="Screenshots/MotherYeastScreenshot2.png" width="300">
+<img src="Screenshots/MotherYeastScreenshot3.png" width="300"> <img src="Screenshots/MotherYeastScreenshot4.png" width="300">
+<img src="Screenshots/MotherYeastScreenshot5.png" width="300"> <img src="Screenshots/MotherYeastScreenshot6.png" width="300">
+
 
 ## Project 2: Catsushi Bar
 * Genre : Match 3 , Mobile Game
