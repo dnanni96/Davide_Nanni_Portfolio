@@ -1,6 +1,6 @@
 # Davide_Nanni_Portofolio
 
-## Project : Hexogun
+## Project : Hexogun 2022
 - **Genre** : RTS
 
 - **Role** : Game Programmer 
@@ -47,7 +47,7 @@
 
  </p>
 
-## Project : Catsushi Bar
+## Project : Catsushi Bar 2022
 
 - **Genre** : Match 3 , Mobile Game
 
@@ -83,7 +83,7 @@
 
 </p>
 
-## Project : Mother Yeast
+## Project : Mother Yeast 2021
 - **Where** : Digital Bros Game Academy
 
 - **Genre** : Simulator , First Person
