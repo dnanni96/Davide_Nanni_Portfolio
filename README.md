@@ -20,7 +20,7 @@
     
 - **Description** : Begin your journey as newly elected Shougun of the High prefecture to conquer all of Japan. Expand your lands defeating enemies in this fast paced RTS game and ascend to the legend.
 
-<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Mother%20Yeast.md">Show Screenshot</a></h2>
+<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Hexogun.md">Show Screenshot</a></h2>
 
 ## Project : Catsushi Bar 2022
 
@@ -42,7 +42,7 @@
     
 - **Description** : Improve your sushi restaurant bar, explore the islands, recruit a perfect crew to create the best sushi in Katpan! Through countless amounts of struggles and success build your own sushi empire in this puzzle management game.
 
-<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Mother%20Yeast.md">Show Screenshot</a></h2>
+<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md">Show Screenshot</a></h2>
 
 ## Project : Mother Yeast 2021
 
