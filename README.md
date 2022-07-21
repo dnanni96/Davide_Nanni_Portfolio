@@ -54,10 +54,15 @@
 
 ## Project 3: Hexogun
 - **Genre** : RTS
+- 
 - **Role** : Game Programmer 
-- Mansion :
-    - worked in a creation logic of pathfinding
-    - an enemy AI and in a RTS combat system.
+- 
+- **Mansion** :
+    - Creation logic of pathfinding.
+    - Procedural creation of the map.
+    - Enemy AI brain.
+    - RPS combat system.
+    
 - **Description** : Begin your journey as newly elected Shougun of the High prefecture to conquer all of Japan. Expand your lands defeating enemies in this fast paced RTS game and ascend to the legend.
  
  <h2 align="center"> Game view </h2>
