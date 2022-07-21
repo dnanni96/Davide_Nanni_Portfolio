@@ -2,6 +2,9 @@
 
 ## Project : Hexogun 2022
 
+- **Where** : <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB">Digital Bros Game Academy</a>
+
+- **Partner** : Untold Games 
 - **Genre** : RTS
 
 - **Role** : Game Programmer 
@@ -15,9 +18,8 @@
     - RPS combat system.
     
 - **Description** : Begin your journey as newly elected Shougun of the High prefecture to conquer all of Japan. Expand your lands defeating enemies in this fast paced RTS game and ascend to the legend.
-[View More](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
 
-<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md">View More</a></h2>
+<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Hexogun.md">Show Screenshot</a></h2>
 
 <h2 align="center">  </h2>
  <h2 align="center"> Game view </h2>
@@ -54,7 +56,8 @@
 
 ## Project : Catsushi Bar 2022
 
-[View More](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
+- **Where** : Digital Bros Game Academy
+
 - **Genre** : Match 3 , Mobile Game
 
 - **Role** : Game Programmer 
@@ -69,24 +72,35 @@
     
 - **Description** : Improve your sushi restaurant bar, explore the islands, recruit a perfect crew to create the best sushi in Katpan! Through countless amounts of struggles and success build your own sushi empire in this puzzle management game.
 
+<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md">Show Screenshot</a></h2>
+
  <h2 align="center"> Game view: </h2>
  
  <h3 align="center"> Game: </h3>
  
  <p align="center">
+<kbd>
+  <img src="https://user-images.githubusercontent.com/90765306/180239292-a63bf974-6e34-4fa2-8a89-c2698eb8d906.png" alt="" width="420"/>
+</kbd>
+    <kbd>
+  <img src="https://user-images.githubusercontent.com/90765306/180239333-29adf374-694c-48f3-bafe-444ceda8ac3d.png" alt="" width="420"/>
+</kbd>
+    
+<kbd>
+  <img src="https://user-images.githubusercontent.com/90765306/180239351-306d6a5f-1513-4805-ac3b-b2c57867d971.png" alt="" width="420 "/>
+</kbd>
+    <kbd>
+  <img src="https://user-images.githubusercontent.com/90765306/180239371-f712bcde-d9e3-479d-8573-5ebfe20bc1e7.png" alt="" width="420 "/>
+</kbd>
+    
 
-![Immagine 2022-02-15 094336](https://user-images.githubusercontent.com/90765306/180239292-a63bf974-6e34-4fa2-8a89-c2698eb8d906.png)
- 
-![Immagine 2022-02-15 094407](https://user-images.githubusercontent.com/90765306/180239333-29adf374-694c-48f3-bafe-444ceda8ac3d.png)
-
-![Immagine 2022-02-15 094540](https://user-images.githubusercontent.com/90765306/180239351-306d6a5f-1513-4805-ac3b-b2c57867d971.png)
-
-![Immagine 2022-02-15 094612](https://user-images.githubusercontent.com/90765306/180239371-f712bcde-d9e3-479d-8573-5ebfe20bc1e7.png)
-
-![Immagine 2022-02-15 094911](https://user-images.githubusercontent.com/90765306/180239384-285681b2-a7b3-4c94-bb8f-2e9542bf8578.png)
-
-![Immagine 2022-02-15 094923](https://user-images.githubusercontent.com/90765306/180239424-cb91ce67-b6b5-4ec5-b7b6-5712d12ee6da.png)
-
+<kbd>
+  <img src="https://user-images.githubusercontent.com/90765306/180239384-285681b2-a7b3-4c94-bb8f-2e9542bf8578.png" alt="" width="420 "/>
+</kbd>
+    <kbd>
+  <img src="https://user-images.githubusercontent.com/90765306/180239424-cb91ce67-b6b5-4ec5-b7b6-5712d12ee6da.png" alt="" width="420 "/>  
+</kbd>
+    
 </p>
 
 ## Project : Mother Yeast 2021
@@ -107,6 +121,8 @@
     - Animation implementation.
     
 - **Description** : Mother Yeast is a pizzaiolo simulator in space in which the player will be Ciro, a pizzaiolo that opened the first pizzeria on the moon. Manage the orders of any kind of clients by feeding Mother Yeast with the ingredients and deliver pizzas for every type of palate.
+
+<h2 align="center"><a href="https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Mother%20Yeast.md">Show Screenshot</a></h2>
 
 <h2 align="center"> Game view: </h2>
  
