@@ -4,7 +4,8 @@
 
 - **Where** : <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB">Digital Bros Game Academy</a>
 
-- **Partner** : Untold Games 
+- **Partner** : <a href="https://untoldgames.com/">Untold Games</a>
+
 - **Genre** : RTS
 
 - **Role** : Game Programmer 
@@ -56,7 +57,9 @@
 
 ## Project : Catsushi Bar 2022
 
-- **Where** : Digital Bros Game Academy
+- **Where** : <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB">Digital Bros Game Academy</a>
+
+- **Partner** : <a href="https://www.gameloft.com/gameloft-studios/sofia">Gameloft Sofia</a>
 
 - **Genre** : Match 3 , Mobile Game
 
@@ -107,7 +110,7 @@
 
 [View More](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
 
-- **Where** : Digital Bros Game Academy
+- **Where** : <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB">Digital Bros Game Academy</a>
 
 - **Genre** : Simulator , First Person
 
