@@ -13,6 +13,20 @@
 * Description : Improve your sushi restaurant bar, explore the islands, recruit a perfect crew to create the best sushi in Katpan! Through countless amounts of struggles and success build your own sushi empire in this puzzle management game.
 
 
+## Screenshots
+
+![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094336.png)
+
+![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094407.png)
+
+![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094540.png)
+
+![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094612.png)
+
+![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094911.png)
+
+![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094923.png)
+
 ## Project 3: Hexogun
 * Genre : RTS
 * Role : Game Programmer
