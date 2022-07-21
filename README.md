@@ -2,8 +2,6 @@
 
 ## Project : Hexogun 2022
 
-[View More](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)
-
 - **Genre** : RTS
 
 - **Role** : Game Programmer 
@@ -17,7 +15,8 @@
     - RPS combat system.
     
 - **Description** : Begin your journey as newly elected Shougun of the High prefecture to conquer all of Japan. Expand your lands defeating enemies in this fast paced RTS game and ascend to the legend.
- 
+
+<h2 align="center">[View More](https://github.com/dnanni96/Davide_Nanni_Portfolio/blob/main/Projects/Catsushi%20Bar.md)</h2>
  <h2 align="center"> Game view </h2>
  
  <h3 align="center"> Promo Art: </h3>
