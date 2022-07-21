@@ -19,7 +19,7 @@
 * Description : Begin your journey as newly elected Shougun of the High prefecture to conquer all of Japan. Expand your lands defeating enemies in this fast paced RTS game and ascend to the legend.
 
  
- <h2 align="center"> Some Screenshoot of the Game: </h2>
+ <h2 align="center"> Game view </h2>
  
  <h3 align="center"> Promo Art: </h3>
  
