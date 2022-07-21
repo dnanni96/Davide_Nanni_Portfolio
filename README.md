@@ -12,7 +12,6 @@
  
  <p align="center">
  
-![8] (https://raw.githubusercontent.com/2122-dbga-projects/twist-team-08/main/Screenshots/MotherYeastScreenshot1.png?token=GHSAT0AAAAAABVPRXKR4OHFLM7NDVXO567OYWZNY7A)
 ![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot2.png)
 ![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot3.png)
 ![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot4.png)
@@ -30,7 +29,8 @@
  
  <p align="center">
  
-![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094336.png)
+![Daimyo_Honda_port](https://user-images.githubusercontent.com/90765306/180237421-f6a06523-2e92-4267-a37f-088a844362cf.png)
+
  
 ![GitHub](https://github.com/2122-dbga-projects/match3-team-03/blob/main/Assets/Screenshots/Immagine%202022-02-15%20094407.png)
  
