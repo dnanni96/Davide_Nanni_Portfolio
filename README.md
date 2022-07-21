@@ -56,8 +56,8 @@
 * Genre : RTS
 * Role : Game Programmer 
 * Mansion : 
- ** worked in a creation logic of pathfinding
- ** an enemy AI and in a RTS combat system.
+ - worked in a creation logic of pathfinding
+ - an enemy AI and in a RTS combat system.
  
 * Description : Begin your journey as newly elected Shougun of the High prefecture to conquer all of Japan. Expand your lands defeating enemies in this fast paced RTS game and ascend to the legend.
 
