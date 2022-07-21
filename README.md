@@ -1,6 +1,12 @@
 # Davide_Nanni_Portofolio
 
-
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+- 
 ## Project 1: Mother Yeast
 **Where** :  sd
 * Genre : Simulator , First Person
