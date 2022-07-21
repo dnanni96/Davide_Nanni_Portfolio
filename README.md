@@ -61,7 +61,7 @@
     - Combat system.
     - UI implementation
     
-- **Description** : BImprove your sushi restaurant bar, explore the islands, recruit a perfect crew to create the best sushi in Katpan! Through countless amounts of struggles and success build your own sushi empire in this puzzle management game.
+- **Description** : Improve your sushi restaurant bar, explore the islands, recruit a perfect crew to create the best sushi in Katpan! Through countless amounts of struggles and success build your own sushi empire in this puzzle management game.
 
  <h2 align="center"> Game view: </h2>
  
