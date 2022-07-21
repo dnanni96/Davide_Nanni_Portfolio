@@ -12,7 +12,7 @@
  
  <p align="center">
  
-![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot1.png)
+![8] (https://raw.githubusercontent.com/2122-dbga-projects/twist-team-08/main/Screenshots/MotherYeastScreenshot1.png?token=GHSAT0AAAAAABVPRXKR4OHFLM7NDVXO567OYWZNY7A)
 ![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot2.png)
 ![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot3.png)
 ![GitHub](https://github.com/2122-dbga-projects/twist-team-08/blob/main/Screenshots/MotherYeastScreenshot4.png)
